@@ -43,11 +43,5 @@ cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn 
 ```
 
 * * *
-
-
-# Developers!
-
-[mohammad](https://github.com/mohamaddige)
-### Our Telegram channel:
-
-[@amrica](https://telegram.me/amrica)
+### Developer!
+[@mohamaddige](https://t.me/mohamaddige)
