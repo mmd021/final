@@ -1,4 +1,4 @@
-# [mohamad)](https://telegram.me/mohamaddige)
+# [mohamad:)](https://telegram.me/mohamaddige)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -47,8 +47,7 @@ cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn 
 
 # Developers!
 
-[mohammad](https://github.com/mohamaddige) ([Telegram](https://telegram.me/mohamaddige))
-
+[mohammad](https://github.com/mohamaddige)
 ### Our Telegram channel:
 
 [@amrica](https://telegram.me/amrica)
