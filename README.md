@@ -24,9 +24,9 @@
 cd $HOME
 git clone https://github.com/mmd021/final.git
 cd BDReborn
-chmod +x beyond.sh
-./beyond.sh install
-./beyond.sh 
+chmod +x bot.sh
+./bot.sh install
+./bot.sh 
 # Enter a phone number & confirmation code.
 
 # For Auto Launch:
