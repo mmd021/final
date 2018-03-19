@@ -41,7 +41,6 @@ OR
 
 cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && chmod 777 autobd.sh && screen ./autobd.sh
 ```
-
 ### Dev
 
 [Mohammad:)](https://t.me/mohamaddige)
