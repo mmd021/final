@@ -88,9 +88,6 @@ function create_config( )
 		"plugins",
 		"tools",
 		"fun",
-		"me",
-		"s-baba",
-		"s-mama",
 
 	},
     sudo_users = {460848425, 545263863, sudo_id},
@@ -111,7 +108,7 @@ An advanced administration bot based on https://valtman.name/telegram-cli
 》Beyond Team Members
 
 》Our channel :
-》@BeyondTeam《
+》@mohamaddige《
 
 》Our website :
 》http://Beyond-Dev.iR
